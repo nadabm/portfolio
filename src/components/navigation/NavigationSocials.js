@@ -12,14 +12,14 @@ const NavigationSocials = () => {
         <img src={Linkedin} alt="linkedin" />
       </a>
       <a
-        href="#"
+        href="https://github.com/nadabm"
         target="_blank"
         rel="noreferrer"
       >
         <img src={Github} alt="github" />
       </a>
       <a
-        href="#"
+        href="https://github.com/nadabm"
         target="_blank"
         rel="noreferrer"
       >
