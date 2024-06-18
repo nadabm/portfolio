@@ -1,62 +1,81 @@
 const experienceData = [
   {
     id: 1,
-    jobtitle: "Marketing Campaign Manager",
-    companyname: "InnovateX Solutions",
-    worktype: "Full-time",
-    duration: "Jan 2021 - Oct 2021",
-    location: "Tbilisi, Georgia",
+    jobtitle: "Full-stack Developer Intern",
+    companyname: "Puerto Transit",
+    worktype: "Internship",
+    duration: "Aug 2022 - Apr 2023",
+    location: "Tangier, Morocco",
     responsibility: [
-      `Developed and executed innovative marketing campaigns that resulted in a 20% increase in brand visibility and a 15% rise in customer engagement.`,
-      `Collaborated with cross-functional teams to create compelling content for digital and print channels, ensuring consistent brand messaging.`,
-      `Conducted market research and competitor analysis, identifying key trends and insights to refine campaign strategies.`,
-      `Utilized data analytics to measure campaign performance, adjusting tactics in real-time to maximize ROI.`,
-      `Managed a team of graphic designers and copywriters, fostering a collaborative environment and ensuring timely delivery of high-quality assets.`
+      `Collaborated with senior developers to design and develop web applications using Laravel, SQL Server, JavaScript, and React.`,
+      `Participated in Agile development sprints, contributing to project planning, coding, and testing phases.`,
+      `Gained hands-on experience in database management and API integration to enhance application functionalities.`,
     ],
   },
   {
     id: 2,
-    jobtitle: "Social Media Strategist",
-    companyname: "NexaReach Marketing Agency",
+    jobtitle: "Customer Service Representative",
+    companyname: "Call Center Solutions",
     worktype: "Full-time",
-    duration: "Sep 2020 - Jan 2021",
-    location: "Tbilisi, Georgia",
+    duration: "Jun 2018 - Jul 2019",
+    location: "Tangier, Morocco",
     responsibility: [
-      `Devised and executed dynamic social media strategies across platforms, resulting in a 25% growth in follower base and a 30% boost in user engagement.`,
-      `Created engaging and shareable content, leveraging both visual and written components to enhance brand storytelling.`,
-      `Collaborated with clients to understand their unique voice and objectives, tailoring social media plans to align with their brand identity.`,
-      `Monitored social media trends and emerging platforms, recommending and implementing new strategies to keep clients ahead of the curve.`,
+      `Handled inbound and outbound calls, providing customer support and resolving inquiries.`,
+      `Maintained accurate records of customer interactions and transactions using CRM systems.`,
+      `Achieved customer satisfaction targets through effective communication and problem-solving skills.`,
     ],
-  }
+  },
+  {
+    id: 3,
+    jobtitle: "Library Assistant",
+    companyname: "City Library",
+    worktype: "Part-time",
+    duration: "Aug 2019 - May 2021",
+    location: "Tangier, Morocco",
+    responsibility: [
+      `Assisted patrons with locating books and resources, providing excellent customer service.`,
+      `Managed library inventory and shelving systems to ensure efficient organization.`,
+      `Organized and led community events such as book clubs and reading programs.`,
+    ],
+  },
 ];
 
 const educationData = [
+  
   {
-    name: "Emerald College",
+    name: "Abdelmalek Essaadi University",
     status: "Bachelor of Science in Computer Science",
-    year: "2021",
+    year: "Graduated 2021",
+    location: "Tangier, Morocco"
   },
+
   {
-    name: "Cityville High School",
-    status: "High School Diploma",
-    year: "2012",
+    name: "Allal El Fassi High School",
+    status: "Baccalaureate in Sciences Math",
+    year: "Graduated 2019",
+    location: "Tangier, Morocco"
   }
 ];
 
 const certificationData = [
   {
-    name: "HTML and CSS in depth",
-    source: "Meta",
+    name: "Cisco Certified Network Associate (CCNA)",
+    source: "Cisco",
     date: "Issued Sept 2022 · No Expiration Date"
   },
   {
-    name: "Interactivity with JavaScript",
-    source: "University of Michigan",
+    name: "HTML and CSS Fundamentals",
+    source: "Online Course",
     date: "Issued Sept 2022 · No Expiration Date"
   },
   {
-    name: "React Basics",
-    source: "Meta",
+    name: "JavaScript Basics",
+    source: "Online Course",
+    date: "Issued Sept 2022 · No Expiration Date"
+  },
+  {
+    name: "React Essentials",
+    source: "Online Course",
     date: "Issued Sept 2022 · No Expiration Date"
   }
 ];
